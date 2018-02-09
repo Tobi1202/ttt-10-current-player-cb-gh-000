@@ -3,7 +3,7 @@ turns = 0
 board.each {|cell|
   if cell != " "
     turns++
-  end  }}
+  end
 
   return turns
 end} end
