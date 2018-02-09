@@ -5,3 +5,5 @@ board.each {|cell|
     turns++
   end
 }
+turns
+end
