@@ -1,6 +1,6 @@
 def turn_count(board)
 turns = 0
-each {|cell|
+board.each {|cell|
   if cell != " "
     turns++
 
