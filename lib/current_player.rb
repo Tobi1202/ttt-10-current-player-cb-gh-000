@@ -6,4 +6,4 @@ board.each {|cell|
   end  }}
 
   return turns
-end
+end}
