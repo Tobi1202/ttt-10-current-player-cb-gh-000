@@ -4,6 +4,6 @@ each {|cell|
   if cell != " "
     turns++
   end
-  }}
+  }
   return turns
 end
