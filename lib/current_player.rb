@@ -2,7 +2,7 @@ def turn_count(board)
 turns = 0
 board.each {|cell|
   if cell != " "
-    turns++
+    turns += 1
   end
 }
 turns
